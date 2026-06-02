@@ -3,19 +3,20 @@
 Projekt **Gjuhe Shqipe** — **Harvard Zani**, Klasa IX, SHKA "26 Nëntori", Tiranë.  
 30 faqe me temën *Vendi ku dua të jetoj* për **New York City**.
 
-## Si ta hapni
+## Website online (GitHub Pages)
 
-1. Hapni dosjen `new-york-projekt`
-2. Klikoni dy herë mbi `index.html` ose hapeni me shfletuesin (Chrome, Edge, Firefox)
+**https://arvi112233.github.io/vendi-ku-dua-te-jetoj/**
 
-Për navigim më të mirë, mund të nisni një server lokal:
+(Ndërfaqja mund të duhet 1–2 minuta pas publikimit që të aktivizohet.)
 
-```bash
-cd new-york-projekt
-py -3 -m http.server 8080
-```
+## Repository
 
-Pastaj shkoni te: http://localhost:8080
+https://github.com/arvi112233/vendi-ku-dua-te-jetoj
+
+## Si ta hapni lokalisht
+
+1. Hapni `index.html` me shfletuesin, ose:
+2. `py -3 -m http.server 8080` dhe shkoni te http://localhost:8080
 
 ## Struktura
 
